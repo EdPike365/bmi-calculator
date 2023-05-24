@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('SonarQube analysis') {
       steps {
-        echo 'hello world'
+        echo 'hello world !!!!!!!'
       }
     }
 
